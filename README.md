@@ -1,4 +1,5 @@
 # install_R_and_RStudio
+# install_R
 Steps to follow to install r and RStudio.
 
 Step 1: 
@@ -36,5 +37,15 @@ Step 7:
 Done .
 
 ![done](https://github.com/RicardoGarfias/install_R_and_RStudio/assets/149250504/275e872e-ac07-47ff-84e7-f719a7403777)
+
+
+
+
+
+# install_R_and_RStudio
+# install_RStudio
+
+
+
 
  
