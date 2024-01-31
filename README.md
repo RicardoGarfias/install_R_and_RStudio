@@ -76,18 +76,18 @@ Click Next on the Setup Wizard twice.
 ![6 next](https://github.com/RicardoGarfias/install_R_and_RStudio/assets/149250504/d76de280-6614-4ad9-bf19-ce55e89c21f2)
 
 Step 7:
-7. Click Install
+Click Install
 
 ![6 5 Install](https://github.com/RicardoGarfias/install_R_and_RStudio/assets/149250504/30c5c433-4c64-47fd-9d15-e53d228c31c9)
 
 
 Step 8:
-7. Click Install
+Click finish
 
 ![7 finish](https://github.com/RicardoGarfias/install_R_and_RStudio/assets/149250504/8e7541c1-6f03-4d36-bece-3224646f8b3c)
 
 Step 9:
-Go to rstudio.com
+Done , open RStudio.
 
 ![8 done ](https://github.com/RicardoGarfias/install_R_and_RStudio/assets/149250504/dcf10574-7673-4f6c-abd8-2b6e98459123)
 ![9 rstudio](https://github.com/RicardoGarfias/install_R_and_RStudio/assets/149250504/9c670072-f80c-4098-b682-62b179ef2780)
