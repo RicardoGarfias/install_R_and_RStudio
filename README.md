@@ -45,6 +45,55 @@ Done .
 # install_R_and_RStudio
 # install_RStudio
 
+Step 1:
+Go to rstudio.com
+
+![1 link](https://github.com/RicardoGarfias/install_R_and_RStudio/assets/149250504/4e06e938-b7ee-47f5-98e9-863e8eebca4e)
+
+Step 2:
+Scroll down and click the button that says Download Free Desktop IDE
+
+![2 desktop](https://github.com/RicardoGarfias/install_R_and_RStudio/assets/149250504/42694c3b-344b-4646-a77d-f60e60155950)
+
+Step 3:
+For the free version of RStudio, click the Download button below it
+
+![3 free](https://github.com/RicardoGarfias/install_R_and_RStudio/assets/149250504/75b3d7cd-b01d-419a-9b22-b6584b0b3b82)
+
+Step 4:
+Click the big blue button to download the recommended RStudio version for your operating system. 
+
+![4 recommend](https://github.com/RicardoGarfias/install_R_and_RStudio/assets/149250504/466d37c3-e70f-4d51-91b7-891ef08a7350)
+
+Step 5:
+After the download, open and run the file
+
+![5 open file](https://github.com/RicardoGarfias/install_R_and_RStudio/assets/149250504/82cdcba3-7a03-443e-b905-24c8f81e4398)
+
+Step 6:
+Click Next on the Setup Wizard twice.
+
+![6 next](https://github.com/RicardoGarfias/install_R_and_RStudio/assets/149250504/d76de280-6614-4ad9-bf19-ce55e89c21f2)
+
+Step 7:
+7. Click Install
+
+![6 5 Install](https://github.com/RicardoGarfias/install_R_and_RStudio/assets/149250504/30c5c433-4c64-47fd-9d15-e53d228c31c9)
+
+
+Step 8:
+7. Click Install
+
+![7 finish](https://github.com/RicardoGarfias/install_R_and_RStudio/assets/149250504/8e7541c1-6f03-4d36-bece-3224646f8b3c)
+
+Step 9:
+Go to rstudio.com
+
+![8 done ](https://github.com/RicardoGarfias/install_R_and_RStudio/assets/149250504/dcf10574-7673-4f6c-abd8-2b6e98459123)
+![9 rstudio](https://github.com/RicardoGarfias/install_R_and_RStudio/assets/149250504/9c670072-f80c-4098-b682-62b179ef2780)
+
+
+
 
 
 
