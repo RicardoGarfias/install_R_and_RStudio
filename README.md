@@ -19,7 +19,8 @@ If you're on Windows, click Download R for Windows
  Step 4:
  Click the first link that says Download R [latest version] for Windows
 
- ![paso4 descarga](https://github.com/RicardoGarfias/install_R_and_RStudio/assets/149250504/1b234d3c-83f1-4272-a4f6-0867a499c19d)
+![version](https://github.com/RicardoGarfias/install_R_and_RStudio/assets/149250504/61de45eb-73a6-40a9-9d1d-f63538056c8a)
+
 
  Step 5:
  After the download, open and run the file
